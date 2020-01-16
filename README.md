@@ -19,16 +19,17 @@
 **2. 주요 기능**
 > 이미지 아웃포커싱 기능
 + 딥러닝 Mask R-CNN 알고리즘을 통한 이미지 아웃포커싱 후처리
-+ 화질 개선이 이루어진 이미지에 대하여 전경-배경 분리를 통하여 디테일한 부분까지 아웃포커스 효과 적용
-<img src="/Cococam/Images/descriptions/outfocusing.png" width="300px" height=""300px"/>
++ 화질 개선이 이루어진 이미지에 대하여 전경-배경 분리를 통하여 디테일한 부분까지 아웃포커스 효과 적용 </br>
+<img src="/Cococam/Images/descriptions/outfocusing.png" width="300px" height=""300px"/></img>
 
 > 이미지 화질 개선
 + 딥러닝 ESPCN 알고리즘을 통한 확대된 이미지의 화질 개선
-+ 카메라 Zooming 한 경우에 한하여 실행
-<img src="/Cococam/Images/descriptions/upscailing.png" width="300px" height=""150px"/>
++ 카메라 Zooming 한 경우에 한하여 실행</br>
+
+<img src="/Cococam/Images/descriptions/upscailing.png" width="300px" height=""150px"></img>
 
 
 3. 디자인
-<img src="/Cococam/Images/app_icon1.png" width="30%" height="30%"/>
+<img src="/Cococam/Images/app_icon1.png" width="30%" height="30%"></img>
 <img src="/Cococam/Images/full_logo_pk1.png" width="30%" height="10%"/>
 
