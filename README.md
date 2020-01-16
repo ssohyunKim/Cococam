@@ -30,5 +30,5 @@
 
 3. 디자인 </br>
 <img src="/Images/app_icon1.png" width="30%" height="30%"></img>
-<img src="/Images/full_logo_pk1.png" width="30%" height="10%"/>
+<img src="/Images/full_logo_pk1.png" width="50%" height="10%"/>
 
