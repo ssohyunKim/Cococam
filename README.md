@@ -31,7 +31,7 @@
 
 **3. 시스템 아키텍쳐**
 
-<img src="/Images/system.png"></img>
+<img src="/Images/system.png" width="70%" height="70%"></img>
 
 **3. 디자인**
 
