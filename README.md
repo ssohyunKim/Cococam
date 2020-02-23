@@ -31,7 +31,7 @@
 
 **3. 시스템 아키텍쳐**
 
-<img src="/Images/system.jpeg" wwidth="300px" height="300px"></img>
+<img src="/Images/system.png" width="300px" height="300px"></img>
 
 **3. 디자인**
 
@@ -40,5 +40,5 @@
 
 **4. 화면**
 
-<img src="/Images/screenshot.jpeg" width="300px" height="150px"></img>
+<img src="/Images/screenshot.png" width="300px" height="150px"></img>
 
